@@ -5,10 +5,20 @@
 Please note I'm not a front guy and there is a lot of room for improvment.
 I just wanted to have all my sites in dark :)
 
+## Screenshots
+
+![Google](screenshots/sol-google.png)
+![StackOverflow](screenshots/sol-stack.png)
+![Git](screenshots/sol-git.png)
+![HackerNews](screenshots/sol-hn.png)
+![Medium](screenshots/sol-medium.png)
+![WikiArch](screenshots/sol-arch.png)
+![Wikipedia](screenshots/sol-wik.png)
+
 ## Style
 
 There are too stylesheets :
-- *solarized-dark.css* comes straight from [alphapapa](https://github.com/alphapapa)
+- *solarized-dark.css* comes straight from [alphapapa](https://github.com/alphapapa/solarized-everything-css)
 - *custom_solarized.css* adapts it to different websites I tested
 
 
