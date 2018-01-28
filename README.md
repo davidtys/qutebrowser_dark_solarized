@@ -2,7 +2,7 @@
 
 [Dark solarized](http://ethanschoonover.com/solarized) css stylesheet for the [qutebrowser](https://qutebrowser.org). Make the web like your terminal ! :)
 
-Please note I'm not a front guy and there is a lot of room for improvment.
+Please note I'm not a front guy and there is a lot to improve.
 I just wanted to have all my sites in dark :)
 
 ## Screenshots
@@ -17,7 +17,7 @@ I just wanted to have all my sites in dark :)
 
 ## Style
 
-There are too stylesheets :
+There are two stylesheets :
 - *solarized-dark.css* comes straight from [alphapapa](https://github.com/alphapapa/solarized-everything-css)
 - *custom_solarized.css* adapts it to different websites I tested
 
